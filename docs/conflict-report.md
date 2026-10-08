@@ -57,8 +57,8 @@ Git не может выбрать итог сам: обе стороны изм
 ## Ссылки на PR и историю GitHub
 
 - PR `docs/early`: AlexPlays070/pm03-day06#1
-- PR `docs/late` (с разрешением конфликта): `<ССЫЛКА_НА_PR_LATE>`
-- PR с ошибкой (`bad`): `<ССЫЛКА_НА_PR_BAD>`
-- PR с отменой (`revert/response`): `<ССЫЛКА_НА_PR_REVERT>`
-- История коммитов `main`: `https://github.com/<ЛОГИН>/pm03-day06-<ЛОГИН>/commits/main`
-- Граф истории: `https://github.com/<ЛОГИН>/pm03-day06-<ЛОГИН>/network`
+- PR `docs/late` (с разрешением конфликта): AlexPlays070/pm03-day06#2
+- PR с ошибкой (`bad`): AlexPlays070/pm03-day06#3
+- PR с отменой (`revert/response`): AlexPlays070/pm03-day06#4
+- История коммитов `main`: `https://github.com/AlexPlays070/pm03-day06/commits/main`
+- Граф истории: `https://github.com/AlexPlays070/pm03-day06/network`
