@@ -56,7 +56,7 @@ Git не может выбрать итог сам: обе стороны изм
 
 ## Ссылки на PR и историю GitHub
 
-- PR `docs/early`: `#1`
+- PR `docs/early`: AlexPlays070/pm03-day06#1
 - PR `docs/late` (с разрешением конфликта): `<ССЫЛКА_НА_PR_LATE>`
 - PR с ошибкой (`bad`): `<ССЫЛКА_НА_PR_BAD>`
 - PR с отменой (`revert/response`): `<ССЫЛКА_НА_PR_REVERT>`
